@@ -126,6 +126,7 @@ Example:
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/therajarshichakraborty/LeetCode/tree/master/0739-daily-temperatures) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
@@ -139,4 +140,12 @@ Example:
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/therajarshichakraborty/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/therajarshichakraborty/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
