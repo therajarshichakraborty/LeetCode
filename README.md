@@ -108,12 +108,14 @@ Example:
 | ------- |
 | [0101-symmetric-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -126,6 +128,7 @@ Example:
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0704-binary-search](https://github.com/therajarshichakraborty/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/therajarshichakraborty/LeetCode/tree/master/0739-daily-temperatures) |
@@ -134,6 +137,7 @@ Example:
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -156,4 +160,8 @@ Example:
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/therajarshichakraborty/LeetCode/tree/master/0704-binary-search) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
