@@ -103,6 +103,7 @@ Example:
 | [0101-symmetric-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -111,6 +112,7 @@ Example:
 | [0101-symmetric-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -121,6 +123,7 @@ Example:
 | ------- |
 | [0101-symmetric-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/therajarshichakraborty/LeetCode/tree/master/0463-island-perimeter) |
@@ -131,6 +134,7 @@ Example:
 | [0101-symmetric-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Array
