@@ -4,7 +4,8 @@ class Solution {
 
         for(String op : ops) {
             if (op.equals("+")) {
-                int top = stack.pop();
+                int top = stack.peek();
+                stack.pop();
                 int newtop = top + stack.peek();
                 stack.push(top);
                 stack.push(newtop);
