@@ -149,6 +149,7 @@ Example:
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/therajarshichakraborty/LeetCode/tree/master/0463-island-perimeter) |
+| [0682-baseball-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/therajarshichakraborty/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/therajarshichakraborty/LeetCode/tree/master/0739-daily-temperatures) |
@@ -174,6 +175,7 @@ Example:
 | [0094-binary-tree-inorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/therajarshichakraborty/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -200,4 +202,8 @@ Example:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/therajarshichakraborty/LeetCode/tree/master/0175-combine-two-tables) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
