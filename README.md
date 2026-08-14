@@ -153,6 +153,7 @@ Example:
 | [0033-search-in-rotated-sorted-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0463-island-perimeter](https://github.com/therajarshichakraborty/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0682-baseball-game) |
@@ -175,6 +176,7 @@ Example:
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
@@ -218,4 +220,20 @@ Example:
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0542-01-matrix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
