@@ -133,6 +133,7 @@ Example:
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/therajarshichakraborty/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -153,6 +154,7 @@ Example:
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/therajarshichakraborty/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/therajarshichakraborty/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
@@ -164,6 +166,7 @@ Example:
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/therajarshichakraborty/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -211,4 +214,8 @@ Example:
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0682-baseball-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
