@@ -152,6 +152,7 @@ Example:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0134-gas-station](https://github.com/therajarshichakraborty/LeetCode/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0463-island-perimeter](https://github.com/therajarshichakraborty/LeetCode/tree/master/0463-island-perimeter) |
@@ -236,4 +237,8 @@ Example:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/therajarshichakraborty/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
