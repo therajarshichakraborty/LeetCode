@@ -209,6 +209,7 @@ Example:
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/therajarshichakraborty/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Example:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0542-01-matrix) |
 ## Queue
 |  |
@@ -241,4 +243,12 @@ Example:
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/therajarshichakraborty/LeetCode/tree/master/0134-gas-station) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
