@@ -42,6 +42,5 @@ class Solution {
         curr=temp;                  
     }
     return prev;
-
   }
 }
