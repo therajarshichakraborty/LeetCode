@@ -176,6 +176,7 @@ Example:
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -260,4 +261,12 @@ Example:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/therajarshichakraborty/LeetCode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
