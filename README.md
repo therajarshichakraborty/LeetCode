@@ -155,6 +155,7 @@ Example:
 | [0054-spiral-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/therajarshichakraborty/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/therajarshichakraborty/LeetCode/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/therajarshichakraborty/LeetCode/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/therajarshichakraborty/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
@@ -303,4 +304,12 @@ Example:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/therajarshichakraborty/LeetCode/tree/master/0056-merge-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/therajarshichakraborty/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/therajarshichakraborty/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
