@@ -153,6 +153,7 @@ Example:
 | [0033-search-in-rotated-sorted-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/therajarshichakraborty/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/therajarshichakraborty/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0134-gas-station](https://github.com/therajarshichakraborty/LeetCode/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/therajarshichakraborty/LeetCode/tree/master/0198-house-robber) |
@@ -288,6 +289,7 @@ Example:
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/therajarshichakraborty/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -297,4 +299,8 @@ Example:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/therajarshichakraborty/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/therajarshichakraborty/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
