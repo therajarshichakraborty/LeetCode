@@ -154,6 +154,7 @@ Example:
 | [0053-maximum-subarray](https://github.com/therajarshichakraborty/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/therajarshichakraborty/LeetCode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/therajarshichakraborty/LeetCode/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/therajarshichakraborty/LeetCode/tree/master/0134-gas-station) |
@@ -174,6 +175,7 @@ Example:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/therajarshichakraborty/LeetCode/tree/master/0463-island-perimeter) |
@@ -183,6 +185,7 @@ Example:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/therajarshichakraborty/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
