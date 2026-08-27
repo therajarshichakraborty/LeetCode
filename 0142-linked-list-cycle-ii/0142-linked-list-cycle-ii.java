@@ -1,15 +1,27 @@
 public class Solution {
-    public ListNode detectCycle(ListNode head) {
-        Set<ListNode> seen = new HashSet<>();
+  public ListNode detectCycle(ListNode head) {
+    /*
+    S.C = O(n)
+    T.C = O(1)
+    
+     */
+    ListNode fast = head;
+    ListNode slow = head;
 
-        while (head != null) {
-            if (seen.contains(head)) {
-                return head;
-            }
-            seen.add(head);
-            head = head.next;
-        }
+    while (fast != null && fast.next != null) {
+      fast = fast.next.next;
+      slow = slow.next;
 
-        return null;
+      if (slow == fast) {
+        break;
+      }
     }
+    if (fast == null || fast.next == null)
+      return null;
+    while (head != slow) {
+      head = head.next;
+      slow = slow.next;
+    }
+    return head;
+  }
 }
