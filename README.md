@@ -208,6 +208,7 @@ Example:
 | [0094-binary-tree-inorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/therajarshichakraborty/LeetCode/tree/master/0739-daily-temperatures) |
 | [1006-clumsy-factorial](https://github.com/therajarshichakraborty/LeetCode/tree/master/1006-clumsy-factorial) |
@@ -242,6 +243,7 @@ Example:
 | ------- |
 | [0002-add-two-numbers](https://github.com/therajarshichakraborty/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/therajarshichakraborty/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
@@ -292,6 +294,7 @@ Example:
 | [0012-integer-to-roman](https://github.com/therajarshichakraborty/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/therajarshichakraborty/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/therajarshichakraborty/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -313,6 +316,7 @@ Example:
 | [0005-longest-palindromic-substring](https://github.com/therajarshichakraborty/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/therajarshichakraborty/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/therajarshichakraborty/LeetCode/tree/master/0012-integer-to-roman) |
+| [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
