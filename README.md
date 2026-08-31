@@ -159,6 +159,7 @@ Example:
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/therajarshichakraborty/LeetCode/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/therajarshichakraborty/LeetCode/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/therajarshichakraborty/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/therajarshichakraborty/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0204-count-primes) |
@@ -197,6 +198,7 @@ Example:
 | [0141-linked-list-cycle](https://github.com/therajarshichakraborty/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/therajarshichakraborty/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/therajarshichakraborty/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0268-missing-number) |
@@ -322,6 +324,7 @@ Example:
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/therajarshichakraborty/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/therajarshichakraborty/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/therajarshichakraborty/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -335,6 +338,7 @@ Example:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/therajarshichakraborty/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/therajarshichakraborty/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0268-missing-number) |
@@ -409,9 +413,11 @@ Example:
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/therajarshichakraborty/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/therajarshichakraborty/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
