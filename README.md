@@ -300,6 +300,7 @@ Example:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/therajarshichakraborty/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/therajarshichakraborty/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/therajarshichakraborty/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/therajarshichakraborty/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0204-count-primes) |
