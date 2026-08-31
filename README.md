@@ -228,6 +228,7 @@ Example:
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0400-nth-digit](https://github.com/therajarshichakraborty/LeetCode/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/therajarshichakraborty/LeetCode/tree/master/0704-binary-search) |
 ## Union-Find
 |  |
@@ -304,6 +305,7 @@ Example:
 | [0204-count-primes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/therajarshichakraborty/LeetCode/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/therajarshichakraborty/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/1137-n-th-tribonacci-number) |
