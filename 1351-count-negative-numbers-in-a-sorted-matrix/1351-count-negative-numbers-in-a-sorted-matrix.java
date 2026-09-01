@@ -4,6 +4,7 @@ class Solution {
             return 0; 
         } 
 
+        /**
         int count = 0;
         int m = mat.length;
         int n = mat[0].length;
@@ -16,5 +17,21 @@ class Solution {
         }
         
         return count;
+        */
+
+        int m = mat.length, n = mat[0].length;
+        int i = m - 1, j = 0;
+
+        int res = 0;
+
+        while (i >= 0 && j < n) {
+            if (mat[i][j] < 0) {
+                res += n - j;
+                i--;
+            } else
+                j++;
+        }
+
+        return res;
     }
 }
