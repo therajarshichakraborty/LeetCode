@@ -182,6 +182,7 @@ Example:
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -322,6 +323,7 @@ Example:
 | [1006-clumsy-factorial](https://github.com/therajarshichakraborty/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
 | ------- |
