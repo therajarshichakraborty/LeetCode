@@ -178,6 +178,7 @@ Example:
 | [0739-daily-temperatures](https://github.com/therajarshichakraborty/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/therajarshichakraborty/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0867-transpose-matrix) |
+| [0922-sort-array-by-parity-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -355,6 +356,7 @@ Example:
 | [0229-majority-element-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0268-missing-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -368,6 +370,7 @@ Example:
 | [0283-move-zeroes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/therajarshichakraborty/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 ## Manacher
 |  |
 | ------- |
