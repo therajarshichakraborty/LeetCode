@@ -186,6 +186,7 @@ Example:
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -448,4 +449,8 @@ Example:
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/therajarshichakraborty/LeetCode/tree/master/0164-maximum-gap) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
