@@ -277,6 +277,7 @@ Example:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/therajarshichakraborty/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0867-transpose-matrix) |
 | [1006-clumsy-factorial](https://github.com/therajarshichakraborty/LeetCode/tree/master/1006-clumsy-factorial) |
@@ -319,6 +320,7 @@ Example:
 | [0002-add-two-numbers](https://github.com/therajarshichakraborty/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/therajarshichakraborty/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/therajarshichakraborty/LeetCode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/therajarshichakraborty/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/therajarshichakraborty/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0204-count-primes) |
@@ -350,6 +352,7 @@ Example:
 | [0005-longest-palindromic-substring](https://github.com/therajarshichakraborty/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/therajarshichakraborty/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/therajarshichakraborty/LeetCode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/therajarshichakraborty/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/therajarshichakraborty/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
@@ -392,6 +395,7 @@ Example:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/therajarshichakraborty/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/therajarshichakraborty/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0287-find-the-duplicate-number) |
