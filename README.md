@@ -153,6 +153,7 @@ Example:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/therajarshichakraborty/LeetCode/tree/master/0041-first-missing-positive) |
@@ -207,6 +208,7 @@ Example:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/therajarshichakraborty/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/therajarshichakraborty/LeetCode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/therajarshichakraborty/LeetCode/tree/master/0041-first-missing-positive) |
