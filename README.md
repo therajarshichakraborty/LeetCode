@@ -154,6 +154,7 @@ Example:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/therajarshichakraborty/LeetCode/tree/master/0041-first-missing-positive) |
@@ -364,6 +365,7 @@ Example:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/therajarshichakraborty/LeetCode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/therajarshichakraborty/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/therajarshichakraborty/LeetCode/tree/master/0169-majority-element) |
@@ -375,6 +377,7 @@ Example:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/therajarshichakraborty/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/therajarshichakraborty/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/therajarshichakraborty/LeetCode/tree/master/0141-linked-list-cycle) |
