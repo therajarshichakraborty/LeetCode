@@ -169,6 +169,7 @@ Example:
 | [0074-search-a-2d-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/therajarshichakraborty/LeetCode/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/therajarshichakraborty/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/therajarshichakraborty/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/therajarshichakraborty/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0189-rotate-array) |
@@ -415,6 +416,7 @@ Example:
 | ------- |
 | [0067-add-binary](https://github.com/therajarshichakraborty/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/therajarshichakraborty/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
