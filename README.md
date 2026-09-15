@@ -340,6 +340,7 @@ Example:
 | [0204-count-primes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0292-nim-game) |
 | [0400-nth-digit](https://github.com/therajarshichakraborty/LeetCode/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/therajarshichakraborty/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -502,4 +503,24 @@ Example:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
