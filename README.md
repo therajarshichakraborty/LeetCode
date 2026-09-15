@@ -303,6 +303,7 @@ Example:
 | [0070-climbing-stairs](https://github.com/therajarshichakraborty/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/therajarshichakraborty/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/therajarshichakraborty/LeetCode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/therajarshichakraborty/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/therajarshichakraborty/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -420,6 +421,7 @@ Example:
 | [0136-single-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/therajarshichakraborty/LeetCode/tree/master/0338-counting-bits) |
 ## Pigeonhole Principle
 |  |
 | ------- |
