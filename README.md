@@ -303,6 +303,7 @@ Example:
 | [0682-baseball-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0867-transpose-matrix) |
 | [1006-clumsy-factorial](https://github.com/therajarshichakraborty/LeetCode/tree/master/1006-clumsy-factorial) |
+| [3498-reverse-degree-of-a-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -387,6 +388,7 @@ Example:
 | [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/therajarshichakraborty/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
