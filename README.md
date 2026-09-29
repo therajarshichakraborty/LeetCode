@@ -200,6 +200,7 @@ Example:
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/therajarshichakraborty/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/therajarshichakraborty/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/therajarshichakraborty/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -219,6 +220,7 @@ Example:
 | [0867-transpose-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/therajarshichakraborty/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -329,6 +331,7 @@ Example:
 | [1137-n-th-tribonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/therajarshichakraborty/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/therajarshichakraborty/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Queue
 |  |
 | ------- |
@@ -579,4 +582,5 @@ Example:
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/therajarshichakraborty/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
