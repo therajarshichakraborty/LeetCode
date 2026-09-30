@@ -1,0 +1,6 @@
+const maxDepthAfterSplit = (s, res = []) => {
+    for (let i = 0; i < s.length; i++)
+        res.push((i ^ s.charCodeAt(i)) & 1);
+
+    return res;
+};
