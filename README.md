@@ -253,6 +253,7 @@ Example:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/therajarshichakraborty/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -399,6 +400,7 @@ Example:
 | [0006-zigzag-conversion](https://github.com/therajarshichakraborty/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/therajarshichakraborty/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/therajarshichakraborty/LeetCode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/therajarshichakraborty/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/therajarshichakraborty/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -582,6 +584,7 @@ Example:
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/therajarshichakraborty/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
