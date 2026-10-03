@@ -368,6 +368,7 @@ Example:
 | [0012-integer-to-roman](https://github.com/therajarshichakraborty/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/therajarshichakraborty/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/therajarshichakraborty/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/therajarshichakraborty/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/therajarshichakraborty/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
@@ -409,6 +410,7 @@ Example:
 | [0032-longest-valid-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/therajarshichakraborty/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/therajarshichakraborty/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0171-excel-sheet-column-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/therajarshichakraborty/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
