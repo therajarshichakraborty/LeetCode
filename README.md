@@ -266,6 +266,7 @@ Example:
 | [0678-valid-parenthesis-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/therajarshichakraborty/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/therajarshichakraborty/LeetCode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1006-clumsy-factorial](https://github.com/therajarshichakraborty/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/therajarshichakraborty/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -421,6 +422,7 @@ Example:
 | [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/therajarshichakraborty/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/therajarshichakraborty/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -604,6 +606,7 @@ Example:
 | [0022-generate-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/therajarshichakraborty/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
