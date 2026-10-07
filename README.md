@@ -142,6 +142,7 @@ Example:
 | [0112-path-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/therajarshichakraborty/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/therajarshichakraborty/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/therajarshichakraborty/LeetCode/tree/master/0547-number-of-provinces) |
@@ -423,6 +424,7 @@ Example:
 | [0171-excel-sheet-column-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/therajarshichakraborty/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/therajarshichakraborty/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/therajarshichakraborty/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -473,6 +475,7 @@ Example:
 | ------- |
 | [0022-generate-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/therajarshichakraborty/LeetCode/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
