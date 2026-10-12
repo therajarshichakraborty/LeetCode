@@ -209,6 +209,7 @@ Example:
 | [2333-minimum-sum-of-squared-difference](https://github.com/therajarshichakraborty/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/therajarshichakraborty/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/therajarshichakraborty/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/therajarshichakraborty/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -248,6 +249,7 @@ Example:
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/therajarshichakraborty/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/therajarshichakraborty/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/therajarshichakraborty/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/therajarshichakraborty/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -379,6 +381,7 @@ Example:
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/therajarshichakraborty/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/therajarshichakraborty/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/therajarshichakraborty/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -496,6 +499,7 @@ Example:
 | [0268-missing-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/therajarshichakraborty/LeetCode/tree/master/0338-counting-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/therajarshichakraborty/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Pigeonhole Principle
 |  |
 | ------- |
