@@ -383,6 +383,7 @@ Example:
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/therajarshichakraborty/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/therajarshichakraborty/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/therajarshichakraborty/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -405,6 +406,7 @@ Example:
 | [1137-n-th-tribonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/therajarshichakraborty/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Memoization
