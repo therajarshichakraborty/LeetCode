@@ -39,7 +39,6 @@ class Solution {
     }
 
     private boolean check(int[] nums1, int[] nums2) {
-        // Check whether cyclic rotations of nums1 can produce nums2
         int[] doubled = new int[nums1.length * 2];
         System.arraycopy(nums1, 0, doubled, 0, nums1.length);
         System.arraycopy(nums1, 0, doubled, nums1.length, nums1.length);
