@@ -423,6 +423,7 @@ Example:
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/therajarshichakraborty/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/therajarshichakraborty/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/therajarshichakraborty/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -469,6 +470,7 @@ Example:
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/therajarshichakraborty/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/therajarshichakraborty/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/therajarshichakraborty/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/therajarshichakraborty/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
