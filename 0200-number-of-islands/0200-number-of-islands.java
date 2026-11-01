@@ -1,6 +1,6 @@
 class Solution {
 
-    public void dfs(char[][] grid, int row , int col){
+    public void dfsFirst(char[][] grid, int row , int col){
         if (row < 0 || col < 0 || row >= grid.length || col >= grid[0].length) {
             return;
         }
@@ -10,10 +10,10 @@ class Solution {
 
         grid[row][col] = '0';
 
-        dfs(grid, row-1, col);
-        dfs(grid, row+1, col);
-        dfs(grid, row, col-1);
-        dfs(grid, row, col+1);
+        dfsFirst(grid, row-1, col);
+        dfsFirst(grid, row+1, col);
+        dfsFirst(grid, row, col-1);
+        dfsFirst(grid, row, col+1);
     }
     public int numIslands(char[][] grid) {
         int row = grid.length;
@@ -23,7 +23,7 @@ class Solution {
             for(int j=0;j<col;j++){
                 if(grid[i][j] =='1'){
                     count++;
-                    dfs(grid, i, j);
+                    dfsFirst(grid, i, j);
                 }
             }
         }
