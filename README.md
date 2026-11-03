@@ -229,6 +229,7 @@ Example:
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/therajarshichakraborty/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/therajarshichakraborty/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/therajarshichakraborty/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/therajarshichakraborty/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/therajarshichakraborty/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -446,6 +447,7 @@ Example:
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/therajarshichakraborty/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/therajarshichakraborty/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/therajarshichakraborty/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/therajarshichakraborty/LeetCode/tree/master/3886-sum-of-sortable-integers) |
