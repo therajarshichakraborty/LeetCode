@@ -224,6 +224,7 @@ Example:
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/therajarshichakraborty/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therajarshichakraborty/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/therajarshichakraborty/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -279,6 +280,7 @@ Example:
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/therajarshichakraborty/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therajarshichakraborty/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
@@ -288,6 +290,7 @@ Example:
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/therajarshichakraborty/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therajarshichakraborty/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
 | ------- |
@@ -387,6 +390,7 @@ Example:
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/therajarshichakraborty/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/therajarshichakraborty/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/therajarshichakraborty/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therajarshichakraborty/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/therajarshichakraborty/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/therajarshichakraborty/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
@@ -400,6 +404,7 @@ Example:
 | [0239-sliding-window-maximum](https://github.com/therajarshichakraborty/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/therajarshichakraborty/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/therajarshichakraborty/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therajarshichakraborty/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/therajarshichakraborty/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
@@ -446,6 +451,7 @@ Example:
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/therajarshichakraborty/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/therajarshichakraborty/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/therajarshichakraborty/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/therajarshichakraborty/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/therajarshichakraborty/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/therajarshichakraborty/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
