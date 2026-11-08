@@ -132,6 +132,7 @@ Example:
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/therajarshichakraborty/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/therajarshichakraborty/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -152,6 +153,7 @@ Example:
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/therajarshichakraborty/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/therajarshichakraborty/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -209,6 +211,7 @@ Example:
 | [0867-transpose-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0867-transpose-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1254-number-of-closed-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/therajarshichakraborty/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/therajarshichakraborty/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -253,6 +256,7 @@ Example:
 | [0733-flood-fill](https://github.com/therajarshichakraborty/LeetCode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/therajarshichakraborty/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/therajarshichakraborty/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -341,6 +345,7 @@ Example:
 | [0200-number-of-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/therajarshichakraborty/LeetCode/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/therajarshichakraborty/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/therajarshichakraborty/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/therajarshichakraborty/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/therajarshichakraborty/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
@@ -622,6 +627,7 @@ Example:
 | [0169-majority-element](https://github.com/therajarshichakraborty/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/therajarshichakraborty/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/therajarshichakraborty/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/therajarshichakraborty/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
