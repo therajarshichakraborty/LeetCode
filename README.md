@@ -216,6 +216,7 @@ Example:
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/therajarshichakraborty/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/therajarshichakraborty/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/therajarshichakraborty/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/therajarshichakraborty/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -408,6 +409,7 @@ Example:
 | [0746-min-cost-climbing-stairs](https://github.com/therajarshichakraborty/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/therajarshichakraborty/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/therajarshichakraborty/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/therajarshichakraborty/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -475,6 +477,7 @@ Example:
 | [1006-clumsy-factorial](https://github.com/therajarshichakraborty/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/therajarshichakraborty/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/therajarshichakraborty/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/therajarshichakraborty/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/therajarshichakraborty/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/therajarshichakraborty/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -661,6 +664,7 @@ Example:
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajarshichakraborty/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/therajarshichakraborty/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/therajarshichakraborty/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/therajarshichakraborty/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
